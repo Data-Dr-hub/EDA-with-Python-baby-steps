@@ -11,7 +11,7 @@ I used this information to gain insights into how and when companies reach this 
 The Exploratory analysis is in the ![Python Notebook](Unicorn%20EDA.ipynb)
 ## Data Dictionary
 
-This activity uses a dataset called ![](Unicorn_Companies.csv)
+This activity uses a dataset called ![Datasets](Unicorn_Companies.csv)
 . It represents a list of private companies with a value of over $1 billion as of March 2022. The data includes the name of the country where the company was founded, its current valuation, funding, industry, top investors, year it was founded, and the year it reached a $1 billion valuation.
 
 The dataset contains:
